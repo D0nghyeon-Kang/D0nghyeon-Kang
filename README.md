@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/LTspice-A8E6CF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEgMTJoNGwxLjUtNSAzIDEwIDMtMTAgMyAxMCAzLTEwIDEuNSA1aDMiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBEMTExNyIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPgo="/>
 </p>
 
-<!-- 프로젝트가 생기면 아래 주석을 풀고 채우세요
-### Projects
-| Project | Description | Stack |
-|---|---|---|
-| [project-name](https://github.com/D0nghyeon-Kang/project-name) | 한 줄 설명 | Python |
--->
+### My Garden
+<p align="center">
+  <a href="https://github.com/marshallku/gitgarden">
+    <img src="https://gitgarden.marshallku.dev/?user_name=D0nghyeon-Kang" alt="GitGarden" width="100%"/>
+  </a>
+</p>
