@@ -3,7 +3,7 @@
 # Hi, I'm Donghyeon Kang
 
 <a href="https://github.com/D0nghyeon-Kang">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A8E6CF&center=true&vCenter=true&width=600&lines=Hello%2C+World%21;Welcome+to+my+GitHub;Data+Analysis+%E2%80%A2+Circuit+Design+%E2%80%A2+SW+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A8E6CF&center=true&vCenter=true&width=720&lines=Hello%2C+World%21;Welcome+to+my+GitHub;Data+Analysis+%E2%80%A2+Circuit+Design+%E2%80%A2+SW+Engineering" alt="Typing SVG" />
 </a>
 
 **Mobile Systems Engineering @ Dankook University**
