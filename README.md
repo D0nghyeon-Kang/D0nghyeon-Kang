@@ -23,6 +23,12 @@
 - Contact: **kai2312119@gmail.com**
 
 ### Experience
+<img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+
+**AI Search Quality & Development Intern** · NAVER · Mar 2026 – May 2026
+- 8-week internship on the AI Search Quality Improvement & Development track
+<!-- 실제로 한 일을 한 줄로 추가하세요. 예: - Built an evaluation pipeline for AI search answers with Python -->
+
 <img src="https://img.shields.io/badge/NAVER%20Financial-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 
 **Backend Externship** · NAVER Financial (Naver Pay) · Dec 2025
